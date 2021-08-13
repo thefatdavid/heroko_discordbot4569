@@ -2,7 +2,7 @@ import discord
 import googletrans
 import os
 from pprint import pprint
-# 輸入自己Bot的TOKEN碼
+875771850729345074
 TOKEN = os.environ['TOKEN']
 SRCLanguage=os.environ['SRC']
 DSTLanguage=os.environ['DST']
